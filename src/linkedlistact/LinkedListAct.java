@@ -37,6 +37,7 @@ public class LinkedListAct {
             System.out.println("8.- Cantidad total de participantes registrados");
             System.out.println("9.- Salir");
             System.out.println("////////////////////////////////////////////////////////////////////");
+            System.out.println("MAJO PEDORRA");
             opcion = lectura.nextInt();
 
             switch (opcion) {
